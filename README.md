@@ -11,8 +11,7 @@
   <a href="https://devpost.com/rabiaderin1?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav"><img width="32px" alt="Dev.to" title="Rabia Cifci Devpost" src="https://i.imgur.com/mVm29vK.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 
-<!--   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a> -->
+
 </p>
 
 
@@ -26,7 +25,7 @@
 
 
 
-  <summary><h2>🛠️ My Favorite Tools</h2></summary>
+  <summary><h2>🛠️ What tools do i use </h2></summary>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
   <h3>👨‍💻 Programming and Markup Languages</h3>
